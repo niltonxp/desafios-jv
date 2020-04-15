@@ -1,0 +1,27 @@
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  background-color: deepskyblue;
+  padding: 5px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+form label input {
+  display: flex;
+}
+
+form button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 25%;
+  margin-top: 5px;
+}

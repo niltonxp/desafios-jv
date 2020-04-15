@@ -1,0 +1,17 @@
+table {
+    width: 500px;
+    margin-top: 50px;
+    border-collapse: collapse;
+    background: #FFFFF0;
+}
+
+table tr th {
+    border: 1px solid black;
+    background: #F0FFF0;
+}
+
+table tr td {
+    border: 1px solid black;
+    background: #F0FFF0;
+    padding-left: 5px;
+}
